@@ -1,0 +1,10 @@
+
+//'use strict' // se usa para decirle al codigo que utilice buenas praticas
+
+
+
+let prueba = "hola";
+var apellido ="bulo";
+var nombre = "guillermo";
+
+console.log(apellido)
