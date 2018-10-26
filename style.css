@@ -1,9 +1,7 @@
-.row{
- background: green;
+body {
 
+	background: red;
 }
-.rower{
-
-background: blue;
-
+.contendor_master{
+	background-color: green;
 }
