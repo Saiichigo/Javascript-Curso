@@ -12,6 +12,6 @@
 
 var prueba = document.querySelector("#contenedor_master")
  prueba.innerHTML ="CAMBIO DE NOMBRE, PRUEBA"
- prueba.style.background = 'green'
+prueba.style.background = 'green'
 
 console.log(prueba)
