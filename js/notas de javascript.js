@@ -9,7 +9,11 @@ var variable = nomobre_del_array.join() = esto convierte un array en un string s
 
 
 var variable = varible_texto.split("aqui la condicion para splitear")
-ejemplo 					nombre_array = nombres.split(", ");
+// ejemplo 					nombre_array = nombres.split(", ");
 
 array.sort() = para ordenar un arreglo por oreden numerico o alfabetico
-array.reverse() = para hacer que el arraya este al revez.
+
+array.reverse() = para hacer que el array este al revez.
+
+variable = arrya.some = para si hay numeros mayores a una condicion
+// ejemplo busqueda2 = precios.some(precio => precio > 80); 
